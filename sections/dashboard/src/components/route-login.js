@@ -2,7 +2,7 @@ import React from "react";
 import { useIdentityContext } from "react-netlify-identity";
 import { navigate } from "gatsby";
 
-const Login = ({ showModal }) => {
+const RouteLogin = ({ showModal }) => {
   const identity = useIdentityContext();
 
   if (identity && identity.isLoggedIn) {
@@ -17,4 +17,4 @@ const Login = ({ showModal }) => {
   );
 };
 
-export default Login;
+export default RouteLogin;
