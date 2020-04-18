@@ -1,9 +1,18 @@
 {
+  "name": "todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:badari07/jam-intro-todo.git",
+  "author": "badari07 <badari0793@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "gatsby": "^2.20.24",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "build": "gatsby build"
   }
 }
