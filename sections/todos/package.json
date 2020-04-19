@@ -13,6 +13,7 @@
     "react-dom": "^16.13.1"
   },
   "scripts": {
-    "build": "gatsby build"
+    "build": "gatsby build",
+    "develop": "gatsby develop"
   }
 }
