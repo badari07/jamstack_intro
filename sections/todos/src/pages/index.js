@@ -42,7 +42,7 @@ export default () => {
           ))}
         </ul>
       ) : (
-        <p className={styles.loading}>Loading Todos.....</p>
+        <p className={styles.loading}>Loading Todos...</p>
       )}
     </main>
   );
