@@ -8,6 +8,8 @@
     "@reach/tabs": "^0.10.0",
     "@reach/visually-hidden": "^0.10.0",
     "gatsby": "^2.20.23",
+    "gatsby-plugin-netlify-cms": "^4.3.3",
+    "netlify-cms-app": "^2.12.13",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-netlify-identity": "^0.2.4",
