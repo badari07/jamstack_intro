@@ -6,7 +6,7 @@
   "author": "badari07 <badari0793@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "gatsby": "^2.20.24",
     "react": "^16.13.1",
